@@ -1,0 +1,15 @@
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\bin\Debug\net6.0\TiendasyCompras.Queries.deps.json
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\bin\Debug\net6.0\TiendasyCompras.Queries.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\bin\Debug\net6.0\TiendasyCompras.Queries.pdb
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\bin\Debug\net6.0\TiendasyCompras.ViewModel.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\bin\Debug\net6.0\TiendasyCompras.ViewModel.pdb
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\TiendasyCompras.Queries.csproj.AssemblyReference.cache
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\TiendasyCompras.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\TiendasyCompras.Queries.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\TiendasyCompras.Queries.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\TiendasyCompras.Queries.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\TiendasyCompras.Queries.csproj.CopyComplete
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\TiendasyCompras.Queries.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\refint\TiendasyCompras.Queries.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\TiendasyCompras.Queries.pdb
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Queries\obj\Debug\net6.0\ref\TiendasyCompras.Queries.dll

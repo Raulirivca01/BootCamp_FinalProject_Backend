@@ -1,0 +1,12 @@
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\bin\Debug\net6.0\TiendasyCompras.Model.deps.json
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\bin\Debug\net6.0\TiendasyCompras.Model.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\bin\Debug\net6.0\TiendasyCompras.Model.pdb
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\obj\Debug\net6.0\TiendasyCompras.Model.csproj.AssemblyReference.cache
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\obj\Debug\net6.0\TiendasyCompras.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\obj\Debug\net6.0\TiendasyCompras.Model.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\obj\Debug\net6.0\TiendasyCompras.Model.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\obj\Debug\net6.0\TiendasyCompras.Model.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\obj\Debug\net6.0\TiendasyCompras.Model.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\obj\Debug\net6.0\refint\TiendasyCompras.Model.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\obj\Debug\net6.0\TiendasyCompras.Model.pdb
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Model\obj\Debug\net6.0\ref\TiendasyCompras.Model.dll

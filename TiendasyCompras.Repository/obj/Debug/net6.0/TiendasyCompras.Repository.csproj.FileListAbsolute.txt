@@ -1,0 +1,15 @@
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\bin\Debug\net6.0\TiendasyCompras.Repository.deps.json
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\bin\Debug\net6.0\TiendasyCompras.Repository.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\bin\Debug\net6.0\TiendasyCompras.Repository.pdb
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\bin\Debug\net6.0\TiendasyCompras.Model.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\bin\Debug\net6.0\TiendasyCompras.Model.pdb
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\TiendasyCompras.Repository.csproj.AssemblyReference.cache
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\TiendasyCompras.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\TiendasyCompras.Repository.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\TiendasyCompras.Repository.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\TiendasyCompras.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\TiendasyCompras.Repository.csproj.CopyComplete
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\TiendasyCompras.Repository.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\refint\TiendasyCompras.Repository.dll
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\TiendasyCompras.Repository.pdb
+C:\Users\Soporte\Desktop\Projecto Raul\Backend\BootCamp_FinalProject_Backend\TiendasyCompras.Repository\obj\Debug\net6.0\ref\TiendasyCompras.Repository.dll
